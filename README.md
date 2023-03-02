@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ven
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c, python
+- 🌱 I’m currently learning java, c, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me huda.bawazir0@gmail.com
 
