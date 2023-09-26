@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ven
+- 👋 Hi, I’m huda
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java, c, python
 - 💞️ I’m looking to collaborate on ...
